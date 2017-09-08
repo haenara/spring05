@@ -12,6 +12,7 @@ object DeptExample {
         log.info("main................................")
         log.info("####################################")
         
+        
         var dept1: Dept = new Dept
 
         dept1.setDeptno(10)
